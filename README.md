@@ -17,3 +17,6 @@ Name: Tsion Fitsum
 ## Screenshot
 ![scrnshot](https://user-images.githubusercontent.com/101599225/227808449-26e75c2e-b05f-4fe1-98ba-9aaecaa1c10f.PNG)
 
+##link
+https://github.com/TsionFitsum/QR-Code-Component.git
+
